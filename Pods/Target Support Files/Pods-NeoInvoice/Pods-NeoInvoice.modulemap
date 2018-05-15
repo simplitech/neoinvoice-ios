@@ -1,0 +1,6 @@
+framework module Pods_NeoInvoice {
+  umbrella header "Pods-NeoInvoice-umbrella.h"
+
+  export *
+  module * { export * }
+}
